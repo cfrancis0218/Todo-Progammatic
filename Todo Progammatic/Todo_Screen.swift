@@ -5,18 +5,6 @@
 //  Created by Christian Elijah on 2020-12-02.
 //
 
-/*
- 
- func navigationSetup() {
-     let add_Button = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(goToTaskSrceen))
-     add_Button.tintColor = View.buttonColor
-     
-     self.navigationItem.rightBarButtonItem = add_Button
- }a
- 
- 
- */
-
 import UIKit
 import CoreData
 
@@ -36,4 +24,3 @@ class Todo_Screen: UIViewController {
 
 
 }
-
